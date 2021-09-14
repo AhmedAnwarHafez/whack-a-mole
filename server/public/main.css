@@ -1,0 +1,15 @@
+table {
+  margin-right: center;
+  margin-left: center;
+  margin: 0 auto;
+}
+
+td {
+  background-color: BurlyWood;
+  height: 75px;
+  width: 75px;
+}
+
+.mole {
+  width: 75px;
+}
